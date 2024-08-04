@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:project_weather_app/home.dart';
-import 'package:project_weather_app/loading.dart';
+// import 'package:project_weather_app/loading.dart';
 import 'package:project_weather_app/workers.dart';
 
 void main() {

@@ -145,7 +145,7 @@ class homeScreenState extends State<homeScreen> {
             Row(
               children: [
                 Expanded(
-                    child: Container(
+                  child: Container(
                   height: 280,
                   decoration: BoxDecoration(
                     gradient: LinearGradient(colors: [
